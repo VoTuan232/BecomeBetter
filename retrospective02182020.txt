@@ -1,0 +1,60 @@
+﻿Dear all,
+
+anh gửi trước content về buổi training ngày mai
+ae đọc trước để hình dung nhé
+--------------------
+1. Mindset tool hóa
+ + Tại sao?
+ + Khi nào? Viết tool xong vẫn phải sửa thì có viết không?
+ + Bằng cái gì, như thế nào? (ưu tiên ngôn ngữ/tool dễ chạy, ít phải cài đặt thêm 3rd-soft)
+  - Nodejs/Java/C#/Python...
+  - Excel (VBA)
+  - Chrome extension
+  - Window/Linux Cron job
+ + Một số ý tưởng
+  - convert design/resource/text (excel/word/text) thành resource file ( html/js, java, .net, android, ios...)
+  - daily meeting/ auto logwork/ auto log bug/comment
+  - collect project data (for PM)
+  - import data (Git to jira/redmine, excel to jira redmine, ..)
+  - generate authentication token...
+  - generate source với các app có các chức năng tương tự (admin website...)
+  - file/folder master list
+  - mail/jira/git crawler
+2. Khả năng diễn đạt vấn đề kỹ thuật cho người không biết kỹ thuật
+ + Tại sao?
+ + Như thế nào
+  - Mục đích(overview) trước, giải thích sau
+  - Theo step-by-step
+  - Ít chữ, flow/hình ảnh nhiều
+  - Sử dụng từ ngữ design thay vì coding
+3. Mindset về clean code, tính maintenance (chủ yếu về tư duy, chi tiết kỹ thuật clean code & naming convention sẽ triển khai sau, hiện tại anh đang chưa đủ content)
+ + Tại sao
+ + Như thế nào
+  - Kỹ năng suy nghĩ
+  - Kỹ năng triển khai
+  - Clean code
+   * Dễ đọc
+   * Ngắn gọn
+   * Chia function khi nhiều
+   * Common hóa
+   * Generic hóa
+  - Maintenance
+   * Suy nghĩ xa, khi cần mở rộng thì ntn
+   * Degrade & similar
+  - Đối ứng CR
+   * Degrade & similar
+   * Common hóa
+4. Kỹ năng khác
+ + Đá bóng(important)
+ + Self-estimation & self-tracking
+ + Time management
+ + Điều tra
+  - Bug
+  - Solution
+   * key word
+   * Bao lâu?
+   * Khó thì sao?
+ + Team-communication
+  - Kêu nhiều
+   * Tại sao
+   * Khi nào
